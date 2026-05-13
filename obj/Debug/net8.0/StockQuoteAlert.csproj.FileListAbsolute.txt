@@ -1,0 +1,14 @@
+C:\Users\ecort\Documents\Projetos\INOA\bin\Debug\net8.0\StockQuoteAlert.exe
+C:\Users\ecort\Documents\Projetos\INOA\bin\Debug\net8.0\StockQuoteAlert.deps.json
+C:\Users\ecort\Documents\Projetos\INOA\bin\Debug\net8.0\StockQuoteAlert.runtimeconfig.json
+C:\Users\ecort\Documents\Projetos\INOA\bin\Debug\net8.0\StockQuoteAlert.dll
+C:\Users\ecort\Documents\Projetos\INOA\bin\Debug\net8.0\StockQuoteAlert.pdb
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.AssemblyInfoInputs.cache
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.AssemblyInfo.cs
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.csproj.CoreCompileInputs.cache
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.dll
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\refint\StockQuoteAlert.dll
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.pdb
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.genruntimeconfig.cache
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\ref\StockQuoteAlert.dll
