@@ -12,3 +12,4 @@ C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\refint\StockQuoteAlert.d
 C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.pdb
 C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.genruntimeconfig.cache
 C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\ref\StockQuoteAlert.dll
+C:\Users\ecort\Documents\Projetos\INOA\obj\Debug\net8.0\StockQuoteAlert.sourcelink.json
